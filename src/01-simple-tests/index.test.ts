@@ -1,7 +1,5 @@
 // Uncomment the code below and write your tests
-// import { simpleCalculator, Action } from './index';
-
-import { Action, simpleCalculator } from './index';
+import { simpleCalculator, Action } from './index';
 
 describe('simpleCalculator tests', () => {
   test('should add two numbers', () => {
